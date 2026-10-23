@@ -4,7 +4,7 @@ title: Blindspot privacy policy
 
 # Blindspot privacy policy
 
-_Last updated: 22 October 2026_
+_Last updated: 23 October 2026_
 
 Blindspot doesn't collect any personal data. It has no accounts, no analytics, no advertising and no tracking, and it never connects to a server.
 
@@ -17,6 +17,9 @@ To show your stack in big blinds, Blindspot keeps the following on your devices:
 This data stays on your iPhone and Apple Watch. It's shared between the app, its widgets and its Live Activity on the same iPhone. It's synced between your iPhone and your paired Apple Watch over Apple's direct connection between the two devices (WatchConnectivity). It never reaches us or anyone else.
 
 Deleting Blindspot deletes this data.
+
+## Purchases
+Blindspot Pro is bought through the App Store. Apple handles the payment, and we never see your payment details or Apple Account. The app only checks, on your iPhone, whether Pro is unlocked, and tells your paired Apple Watch over the same direct connection.
 
 ## Notifications
 Clock alerts, such as level-ups and breaks, are scheduled on your iPhone and Watch. They aren't sent from a server.
