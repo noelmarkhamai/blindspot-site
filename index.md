@@ -8,3 +8,4 @@ Your poker tournament stack in big blinds, on your iPhone, Lock Screen, Dynamic 
 
 - [Support](support)
 - [Privacy policy](privacy)
+- [Terms of use](terms)

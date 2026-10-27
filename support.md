@@ -14,4 +14,4 @@ Blindspot shows your poker tournament stack in big blinds on your iPhone, Lock S
 ## Contact
 Email [blindspot@markham.io](mailto:blindspot@markham.io) with your iPhone and Watch models, and the version shown in Blindspot → Settings → About.
 
-[Privacy policy](privacy)
+[Privacy policy](privacy) · [Terms of use](terms)
